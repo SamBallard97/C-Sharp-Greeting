@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8299F18B-E879-4E63-AD62-B5EC9C72BB71}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GreetingApp/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="GreetingApp/Controllers/WeatherForecastController.cs" Line="40" Column="1" />
+      <File FileName="GreetingApp/WeatherForecast.cs" />
+      <File FileName="GreetingApp/Controllers/GreetingController.cs" Line="32" Column="1" NotebookId="1" />
+      <File FileName="GreetingApp/IItem.cs" NotebookId="1" />
+      <File FileName="GreetingApp/Startup.cs" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GreetingApp" expanded="True">
+            <Node name="GreetingApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GreetingApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
